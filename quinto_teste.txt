@@ -1,0 +1,4 @@
+Um quinto teste
+para o aprendizado
+de Git
+e GitHub no linux
